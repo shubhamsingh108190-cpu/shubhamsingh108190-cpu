@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+shubhamsingh108190-cpu+%F0%9F%91%8B;Welcome+to+my+GitHub!;I+build+things+with+code+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+shubham%20singh+%F0%9F%91%8B;Welcome+to+my+GitHub!;I+build+things+with+code+%F0%9F%9A%80" alt="Typing SVG"/>
 </div>
 
 <div align="center">
 
-_Add your social links in GitHub settings!_
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamsingh108190@gmail.com)
 
 </div>
 
@@ -47,8 +47,9 @@ _Add your social links in GitHub settings!_
 
 | Project | Description | Stars |
 |---|---|:---:|
-| [alone](https://github.com/shubhamsingh108190-cpu/alone) | _No description_ | ⭐ 0 |
-| [testing](https://github.com/shubhamsingh108190-cpu/testing) | _No description_ | ⭐ 0 |
+| [alone](https://github.com/shubhamsingh108190-cpu/alone) | A Python project | ⭐ 0 |
+| [shubhamsingh108190-cpu](https://github.com/shubhamsingh108190-cpu/shubhamsingh108190-cpu) | ✨ My GitHub profile | ⭐ 0 |
+| [testing](https://github.com/shubhamsingh108190-cpu/testing) | A Python project | ⭐ 0 |
 
 ---
 
@@ -68,7 +69,7 @@ _Add your social links in GitHub settings!_
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamsingh108190@gmail.com)
 
 </div>
 
